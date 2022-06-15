@@ -22,7 +22,8 @@
 <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white"/></a>
 
 ## 🙆‍♀ Team Member 
-|Jueun Kim<br/>([@Jueunkim429](https://github.com/Jueunkim429))|Jinyoung Kim<br/>([@zhenying2](https://github.com/zhenying2))|
-|:----------:|:----------:|
-|Developer<br/>Project Manager|Developer<br/>Project Manager|
-|![](https://github.com/Jueunkim429.png)|![](https://github.com/zhenying2.png)|
+
+|Jungha Kim<br/>([@jungha17](https://github.com/jungha17))|Jueun Kim<br/>([@Jueunkim429](https://github.com/Jueunkim429))|Jinyoung Kim<br/>([@zhenying2](https://github.com/zhenying2))|
+|:----------:|:----------:|:----------:|
+|HW Developer<br/>Project Manager|Developer<br/>Project Manager|Developer<br/>Project Manager|
+|![](https://github.com/jungha17.png)|![](https://github.com/Jueunkim429.png)|![](https://github.com/zhenying2.png)|
