@@ -1,6 +1,8 @@
 # ✈ 2021-MEIT-TeamSong1Gam4
 2021 MEIT SW source code
 
+## 🏆 혁신선도대학사업단장상(은상)
+
 ## 💡 Project's Goal 
 ![image](https://user-images.githubusercontent.com/92364973/173734252-9f2365da-10b7-48b1-a9b2-2e9a758c8ac1.png)
 
